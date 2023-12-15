@@ -1,6 +1,11 @@
 # Demo
 
 This is a demo description !
-x
-##Subheader
-Watching a tutorial to make this :D
+
+## Subheader
+
+Watching a video tutorial from youtube :D
+
+## Local Development
+
+1. Open index.html in your browser.
